@@ -1,0 +1,16 @@
+OrderID,Date,City,Category,Product,Quantity,Price,PaymentMethod
+1001,1/5/2025,Sarajevo,Electronics,Headphones,2,50,Card
+1002,1/6/2025,Tuzla,Electronics,Headphones,1,25,Card
+1003,1/6/2025,Tuzla,Electronics,Headphones,2,50,Card
+1004,1/6/2025,Tuzla,Electronics,Headphones,2,50,Card
+1005,1/6/2025,Tuzla,Electronics,Headphones,2,50,Cash
+1006,1/6/2025,Tuzla,Electronics,Headphones,1,25,Cash
+1007,1/6/2025,Tuzla,Electronics,Headphones,2,50,Cash
+1008,1/6/2025,Tuzla,Clothing,T-shirt,3,20,Cash
+1009,1/6/2025,Tuzla,Clothing,T-shirt,3,20,Cash
+1010,1/7/2025,Tuzla,Clothing,T-shirt,3,20,Cash
+1011,1/8/2025,Tuzla,Clothing,T-shirt,3,20,Cash
+1012,1/9/2025,Banja Luka,Clothing,T-shirt,3,20,Cash
+1013,1/10/2025,Sarajevo,Clothing,T-shirt,3,20,Cash
+1014,1/11/2025,Sarajevo,Clothing,T-shirt,3,20,Cash
+1015,1/12/2025,Sarajevo,Clothing,T-shirt,3,20,Cash
